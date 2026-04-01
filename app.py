@@ -190,6 +190,7 @@ elif user_menu == 'Athlete wise Analysis':
     fig3 = px.line(final,x='Year',y=['Male','Female'])
     fig3.update_layout(autosize=False, width=1000, height=600)
     st.plotly_chart(fig3)
+    plt.clf()
 
 else:
     st.dataframe(df_season)
