@@ -2,7 +2,7 @@
 
 A comprehensive, data-driven web application built with **Streamlit** that explores over 120 years of Olympic history. This project analyzes athlete performance, country-wise achievements, and overall medal trends using interactive visualizations.
 
-🚀 **[Live App Deployment Link]([https://olympics-performance-analytics-trends-and-medalists-6lqtjdw5ku.streamlit.app/])**
+🚀 **[Live App Deployment Link](https://olympics-performance-analytics-trends-and-medalists-6lqtjdw5ku.streamlit.app/)**
 
 ---
 
